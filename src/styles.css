@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('./assets/css/loading-bar.css');
+@import url(https://fonts.googleapis.com/icon?family=Hind);
+
+* {
+    font-family: Hind, Arial, Helvetica, sans-serif;
+    margin: unset;
+    padding: unset;
+}
+
+.container {
+    padding: 0 .8rem;
+}

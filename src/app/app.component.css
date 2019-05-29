@@ -1,0 +1,33 @@
+header {
+    background: #E2F3F9;
+    color: #0C5E62;
+}
+
+header .logo {
+    text-align: center;
+    padding: .6rem 0;
+}
+
+header .logo .img-logo {
+    height: 70px;
+}
+
+.navbar-list {
+    list-style: none;
+    padding: 3px 0;
+}
+
+.navbar-list .navbar-list-item {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.navbar-list .navbar-list-item:active {
+    background: #53A9A8;
+}
+
+.navbar-list .navbar-list-item i {
+    margin-right: 5px;
+}
