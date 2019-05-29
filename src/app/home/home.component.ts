@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { AngularFireDatabase, AngularFireList } from 'angularfire2/database';
-import { FirebaseService } from '../services/firebase.service';
-import { Observable } from 'rxjs';
 import { Data } from '@angular/router';
 
 @Component({
